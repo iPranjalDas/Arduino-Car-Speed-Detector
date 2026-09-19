@@ -11,6 +11,12 @@
 
 ## 🖥️ System Architecture & Visual Wiring Layout
 
+### 🔌 Graphical Schematic & Pinout Diagrams
+
+![Car Speed Detector using Arduino and IR Sensor](Car%20Speed%20Detector%20using%20Arduino%20and%20IR%20Sensor.png)
+
+
+
 ```
 ┌── DUAL-IR SPEED TRAP CALCULATION ARCHITECTURE ──────────────────────────┐
 │                                                                         │
